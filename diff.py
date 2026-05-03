@@ -1,3 +1,5 @@
 def diff(a,b):
   return a-b
-print(diff(7,-4))
+a=7
+b=-4
+print(diff(a,b))
